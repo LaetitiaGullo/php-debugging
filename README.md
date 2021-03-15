@@ -1,7 +1,7 @@
 # PHP Debugging
 
 ### URL of the project :
-https://laetitiagullo.github.io/php-debugging/
+/
 
 ### Date of realization :
 March 2021
