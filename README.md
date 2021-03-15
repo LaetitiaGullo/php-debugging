@@ -7,7 +7,7 @@ Upcoming
 March 2021
 
 ### Status :
-Finished
+Completed project
 
 ### Type of project :
 Learning
